@@ -1,0 +1,19 @@
+{
+  "name": "imagesComp",
+  "version": "1.0.0",
+  "devDependencies": {
+    "babel-register": "^6.26.0",
+    "gulp": "^3.9.1",
+    "gulp-changed": "^3.2.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-notify": "^3.2.0",
+    "imagemin-mozjpeg": "^7.0.0",
+    "imagemin-pngquant": "^5.1.0"
+  },
+  "scripts": {
+    "images": "gulp images"
+  },
+  "author": "uto usui",
+  "license": "ISC",
+  "description": "Task to compress images"
+}
